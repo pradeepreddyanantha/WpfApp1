@@ -13,6 +13,6 @@ namespace WpfApp1
     /// </summary>
     public partial class App : Application
     {
-        //2-change from Branch-2
+        //3-change from Branch-3
     }
 }
